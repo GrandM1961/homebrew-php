@@ -5,7 +5,7 @@ class Php70Ioncubeloader < AbstractPhp70Extension
   desc "Loader for ionCube Secured Files"
   homepage "http://www.ioncube.com/loaders.php"
   url "http://downloads3.ioncube.com/loader_downloads/ioncube_loaders_dar_x86-64.tar.gz"
-  sha256 "1c9b17a4750578299277cc69631769ecc63708da0b12253cb333434add10332a"
+  sha256 "10d116a00132ea172787ee07aa6b83547769ac92847fc0562757e15019697681"
   version "6.0.9"
 
   bottle do
